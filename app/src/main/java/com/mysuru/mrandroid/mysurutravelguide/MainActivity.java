@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "New Feature, Coming Soon!", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
@@ -67,9 +67,7 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
-        }
+
 
         return super.onOptionsItemSelected(item);
     }
@@ -80,17 +78,27 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
+        if (id == R.id.info) {
             // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
+        } else if (id == R.id.places) {
 
-        } else if (id == R.id.nav_slideshow) {
+        } else if (id == R.id.hotel) {
 
-        } else if (id == R.id.nav_manage) {
+        } else if (id == R.id.restaurant) {
 
-        } else if (id == R.id.nav_share) {
+        } else if (id == R.id.chats) {
 
-        } else if (id == R.id.nav_send) {
+        } else if (id == R.id.pizza) {
+
+        } else if (id == R.id.cafe) {
+
+        } else if (id == R.id.events) {
+
+        } else if (id == R.id.shopping) {
+
+        } else if (id == R.id.special) {
+
+        } else if (id == R.id.travel) {
 
         }
 

@@ -5,47 +5,58 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
+            android:id="@+id/info"
+            android:icon="@drawable/info"
             android:title="Info" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
+            android:id="@+id/places"
+            android:icon="@drawable/places"
             android:title="Places To Visit" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:id="@+id/hotel"
+            android:icon="@drawable/hotel"
             android:title="Hotel" />
         <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
+            android:id="@+id/restaurant"
+            android:icon="@drawable/restaurant"
             android:title="Restaurant" />
         <item
-           android:icon="@drawable/ic_menu_manage"
+            android:id="@+id/chats"
+            android:icon="@drawable/chats"
             android:title="Chats" />
         <item
-            android:icon="@drawable/ic_menu_manage"
+            android:id="@+id/pizza"
+           android:icon="@drawable/pizza"
+            android:title="Pizza" />
+        <item
+            android:id="@+id/cafe"
+            android:icon="@drawable/cafe"
             android:title="Cafes" />
         <item
-            android:icon="@drawable/ic_menu_manage"
+            android:id="@+id/events"
+            android:icon="@drawable/events"
             android:title="Events" />
         <item
-            android:icon="@drawable/ic_menu_manage"
+            android:id="@+id/shopping"
+            android:icon="@drawable/shop"
             android:title="Shopping" />
+        <item
+            android:id="@+id/special"
+            android:icon="@drawable/spl"
+            android:title="Special" />
+        <item
+            android:id="@+id/travel"
+            android:icon="@drawable/travel"
+            android:title="Travel" />
+        <item
+            android:id="@+id/assistant"
+            android:icon="@drawable/ic_android_black_36dp"
+            android:title="Assistant" />
 
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Feedback" />
     </group>
 
-    <item android:title="Communicate">
-        <menu>
-            <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Share Our App" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Feedback" />
-        </menu>
-    </item>
-
-</menu>
+    </menu>
