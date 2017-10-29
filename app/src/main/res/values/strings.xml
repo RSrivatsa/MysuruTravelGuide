@@ -6,7 +6,9 @@
 
     <string name="action_settings">Settings</string>
     <string name="assistant_intro">Confused Where to head?, Just enter your Budget and Number of people. We will Pick the best one for you!</string>
+    <string name="mys_intro">Mysuru, is the third most populous and the third largest city after state capital Bangalore and Hubli in the state of Karnataka, India. Located in the foothills of the Chamundi Hills about 146 km (91 mi) southwest of Bangalore, it is spread across an area of 128.42 km2 (50 sq mi). According to the provisional results of the 2011 national census of India, the population is 887,446. Mysore City Corporation is responsible for the civic administration of the city, which is also the headquarters of the Mysore district and the Mysore division.
 
+Mysore served as the capital city of the Kingdom of Mysore for nearly six centuries, from 1399 until 1956. The Kingdom was ruled by the Wadiyar dynasty, with a brief period of interregnum in the 1760s and 70s when Hyder Ali and Tipu Sultan were in power. Patrons of art and culture, the Wodeyars contributed significantly to the cultural growth of the city and the state. The cultural ambiance and achievements of Mysore earned it the sobriquet Cultural Capital of Karnataka.</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
